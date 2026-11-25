@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "debug.terminal.clearBeforeReusing": true,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
